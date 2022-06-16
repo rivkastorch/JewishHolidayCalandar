@@ -1,0 +1,14 @@
+{
+  "name": "projecttti",
+  "version": "1.0.0",
+  "description": "usin hebcal and adding recipes to your website",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rivka",
+  "license": "ISC",
+  "dependencies": {
+    "hebcal": "^2.3.2"
+  }
+}
